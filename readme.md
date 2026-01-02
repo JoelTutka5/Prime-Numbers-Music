@@ -5,7 +5,8 @@ I created melody using prime numbers:
 and so on  
 8 is C again  
 More info: https://youtu.be/hNnG1jtKB_k
+and https://youtu.be/9snJzjozbhk
   
 <img src="https://github.com/JoelTutka5/Prime-Numbers-Music/blob/main/primess.png" alt="primes">
 
-[MIDI file](https://github.com/JoelTutka5/Prime-Numbers-Music/blob/main/prime%20200.mid)
+[MIDI file](https://github.com/JoelTutka5/Prime-Numbers-Music/blob/main/prime%20400.mid)
